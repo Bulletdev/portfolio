@@ -1,4 +1,4 @@
-# Michael Bullet's Portfolio 🚀
+# Michael Bullet's Portfolio 
 
 
 
