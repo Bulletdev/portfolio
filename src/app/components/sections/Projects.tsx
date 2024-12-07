@@ -47,22 +47,23 @@ const projectLists: {
     content: (
       <a target="_blank" href="https://github.com/Bulletdev/bullet-cloud-api">
         <Image
-          src="/bulletlogo.png"
+          src="/api.png"
           alt="Requisições aqui: https://bullet-cloud-api.onrender.com"
+          loading="lazy"
           width={500}
-          height={500}
+          height={5--}
         />
       </a>
     ),
   },
   {
-    title: "Github ⛏️",
+    title: "Git pentest 👨🏻‍💻",
     description:
       "Penetration test for git repo",
     content: (
       <a target="_blank" href="https://github.com/Bulletdev/GitPentest">
         <Image
-          src="/public/bulletlogo.png"
+          src="/pentest.png"
           alt="demo"
           loading="lazy"
           width={500}
