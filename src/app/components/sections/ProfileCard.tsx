@@ -5,6 +5,7 @@ import Image from "next/image";
 import { FaRegCopy } from "react-icons/fa6";
 import { IoLocationOutline } from "react-icons/io5";
 import { BackgroundGradient } from "../ui/background-gradient";
+import { FaWhatsapp } from "react-icons/fa";
 
 export default function ProfileCard() {
   return (
@@ -76,7 +77,7 @@ function Booking() {
         className="flex items-center justify-center text-sm font-bold bg-spotify-green hover:bg-spotify-dark-green hover:scale-105  px-4 py-2.5 rounded-full gap-2 transition-all duration-200"
         onClick={handleCopyNumber}
       >
-        <FaRegWhatsapp /> 
+        <FaWhatsapp /> 
       </button>
       <button
         type="button"
