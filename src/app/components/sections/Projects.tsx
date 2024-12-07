@@ -47,7 +47,7 @@ const projectLists: {
     content: (
       <a target="_blank" href="https://github.com/Bulletdev/bullet-cloud-api">
         <Image
-          src="/public/bulletlogo.png"
+          src="/bulletlogo.png"
           alt="Requisições aqui: https://bullet-cloud-api.onrender.com"
           width={500}
           height={500}
