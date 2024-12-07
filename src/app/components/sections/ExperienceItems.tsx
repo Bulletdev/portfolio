@@ -101,7 +101,7 @@ const experienceLists: experienceListsProps[] = [
   },
   {
     imageSrc: "/asu.svg",
-    companyName: "Accenture",
+    companyName: "Accenture_",
     positionTitle: "Desenvolvedor Java Junior",
     date: "Fevereiro 2019 – Março 2020",
   },
