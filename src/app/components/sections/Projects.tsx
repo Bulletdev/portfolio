@@ -43,30 +43,46 @@ const projectLists: {
   {
     title: "API Rest Golang",
     description:
-      "API para gerenciamento de produtos",
+      "API para gerenciamento de produtos , Uma API RESTful é uma interface de programação de aplicativos (API) que permite a troca de informações de forma segura entre dois sistemas de computador, permite a integração de aplicações e a conexão de componentes em arquiteturas de microsserviços. ",
     content: (
       <a target="_blank" href="https://github.com/Bulletdev/bullet-cloud-api">
         <Image
           src="/api.png"
           alt="Requisições aqui: https://bullet-cloud-api.onrender.com"
-          loading="lazy"
           width={500}
-          height={5--}
+          height={500}
         />
       </a>
     ),
   },
   {
-    title: "Git pentest 👨🏻‍💻",
+    title: "📐 Cálculo para Devs",
     description:
-      "Penetration test for git repo",
+      "Cálculo para Desenvolvedores! Aqui, você encontrará exemplos de código práticos e organizados por módulos para aprender e aplicar conceitos fundamentais de cálculo diretamente na programação. Este curso é ideal para desenvolvedores com conhecimento básico de programação e matemática (álgebra e geometria).",
     content: (
-      <a target="_blank" href="https://github.com/Bulletdev/GitPentest">
+      <a target="_blank" href="https://github.com/ClubeDoJava/CalculoParaDevs">
         <Image
-          src="/pentest.png"
+          src="/calculo.png"
           alt="demo"
           loading="lazy"
-          width={500}
+          width={700}
+          height={300}
+        />
+      </a>
+    ),
+  },
+
+  {
+    title: "DevInterviewSimulator",
+    description:
+      "O DevInterviewSimulator é uma ferramenta interativa que permite aos desenvolvedores se prepararem para entrevistas técnicas com base nas tecnologias e frameworks que eles dominam. O sistema gera perguntas dinâmicas e simula uma entrevista real.",
+      content: (
+      <a target="_blank" href="https://github.com/ClubeDoJava/DevInterviewSimulator">
+        <Image
+          src="/simulador.png"
+          alt="Demo"
+          loading="lazy"
+          width={700}
           height={300}
         />
       </a>
@@ -75,17 +91,21 @@ const projectLists: {
   {
     title: "ShortMe",
     description:
-      "Simple site to group all my profiles on social networks in one place",
+      "O ShortMe é uma plataforma online que permite criar uma página personalizada com vários links para diferentes conteúdos: Redes sociais, Sites, Lojas, Vídeos, Música, Podcasts.  é útil para pessoas e empresas que possuem várias plataformas e desejam compartilhar todas elas de forma organizada.",
       content: (
       <a target="_blank" href="https://github.com/Bulletdev/ShortMe">
         <Image
-          src="/screenshot.png"
+          src="/shortm.png"
           alt="Demo"
           loading="lazy"
-          width={500}
-          height={300}
+          width={800}
+          height={500}
         />
       </a>
     ),
+  },
+  {
+    title: "",
+    description: ""
   },
 ];

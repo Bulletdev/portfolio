@@ -55,7 +55,7 @@ const languageItems: {
     name: "Django",
     component: (
       <Image
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
         width={32}
         height={32}
         alt="Django"
@@ -70,6 +70,17 @@ const languageItems: {
         width={32}
         height={32}
         alt="Golang"
+      />
+    ),
+  },
+  {
+    name: "Django",
+    component: (
+      <Image
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg"
+        width={32}
+        height={32}
+        alt="Rust"
       />
     ),
   },

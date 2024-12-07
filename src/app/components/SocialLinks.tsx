@@ -3,6 +3,7 @@ import Link from "next/link";
 import { FaInstagram } from "react-icons/fa6";
 import { FaLinkedin } from "react-icons/fa6";
 import { FaGithub } from "react-icons/fa6";
+import { GiBulletBill } from "react-icons/gi";
 
 export default function SocialLinks() {
   return (
@@ -42,5 +43,10 @@ const socialMedias: socialMediasProps = [
     title: "Github",
     url: "https://github.com/bulletdev",
     icon: <FaGithub />,
+  },
+  {
+    title: "Bullet",
+    url: "https://github.com/clubedojava",
+    icon: <GiBulletBill />
   },
 ];

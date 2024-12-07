@@ -72,6 +72,13 @@ function Booking() {
 
   return (
     <div className="flex px-4 gap-3">
+       <button
+        type="button"
+        className="flex items-center justify-center text-sm font-bold bg-spotify-green hover:bg-spotify-dark-green hover:scale-105  px-4 py-2.5 rounded-full gap-2 transition-all duration-200"
+        onClick={handleCopyNumber}
+      >
+        <FaRegCopy /> 
+      </button>
       <button
         type="button"
         className="flex items-center justify-center text-sm font-bold bg-spotify-green hover:bg-spotify-dark-green hover:scale-105  px-4 py-2.5 rounded-full gap-2 transition-all duration-200"
@@ -94,7 +101,7 @@ function PersonalStatement() {
   return (
     <div className="flex flex-col gap-3 px-4">
       <div className="space-y-1.5">
-        <h1 className="text-2xl font-semibold">Michael Bullet</h1>
+        <h1 className="text-2xl font-semibold">Michael "Bullet" Douglas</h1>
         <p className="text-spotify-gray text-sm">
           Desenvolvedor Backend • Infraestrutura • Cloud
         </p>
