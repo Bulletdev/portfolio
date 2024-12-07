@@ -25,7 +25,7 @@ A modern, responsive portfolio website built with cutting-edge technologies, fea
 
 - 📱 Fully Responsive Design
 - 🎨 Spotify-Inspired Interface
-- 🔄 Smooth Animations
+- 🔄 Smooth Animations 
 
 ## 🚀 Quick Start
 
