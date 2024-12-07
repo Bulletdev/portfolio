@@ -44,9 +44,4 @@ const socialMedias: socialMediasProps = [
     url: "https://github.com/bulletdev",
     icon: <FaGithub />,
   },
-  {
-    title: "Bullet",
-    url: "https://github.com/clubedojava",
-    icon: <GiBulletBill />
-  },
 ];

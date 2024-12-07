@@ -1,7 +1,6 @@
 "use client";
 
 import React from "react";
-import { motion } from "framer-motion";
 import Image from "next/image";
 import { FaRegCopy } from "react-icons/fa6";
 import { IoLocationOutline } from "react-icons/io5";
@@ -101,7 +100,7 @@ function PersonalStatement() {
   return (
     <div className="flex flex-col gap-3 px-4">
       <div className="space-y-1.5">
-        <h1 className="text-2xl font-semibold">Michael "Bullet" Douglas</h1>
+        <h1 className="text-2xl font-semibold">Michael  Douglas</h1>
         <p className="text-spotify-gray text-sm">
           Desenvolvedor Backend • Infraestrutura • Cloud
         </p>
