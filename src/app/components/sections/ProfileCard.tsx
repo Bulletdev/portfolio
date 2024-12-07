@@ -76,7 +76,7 @@ function Booking() {
         className="flex items-center justify-center text-sm font-bold bg-spotify-green hover:bg-spotify-dark-green hover:scale-105  px-4 py-2.5 rounded-full gap-2 transition-all duration-200"
         onClick={handleCopyNumber}
       >
-        <FaRegCopy /> 
+        <FaRegWhatsapp /> 
       </button>
       <button
         type="button"
