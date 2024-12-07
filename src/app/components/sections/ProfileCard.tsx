@@ -47,6 +47,7 @@ function Location() {
 function Booking() {
   const email = "contato@michaelbullet.com"; // Replace with the email you want to copy
   const phoneNum = "75983360359";
+  const Whatsapp = "wa.me/5575983360359";
 
   const handleCopyEmail = () => {
     navigator.clipboard
@@ -69,13 +70,22 @@ function Booking() {
         console.error("Failed to copy: ", err);
       });
   };
-
+  const handleCopyWhatsapp = () => {
+    navigator.clipboard
+      .writeText(phoneNum)
+      .then(() => {
+        alert("Phone bumber copied to clipboard!");
+      })
+      .catch((err) => {
+        console.error("Failed to copy: ", err);
+      });
+  };
   return (
     <div className="flex px-4 gap-3">
        <button
         type="button"
         className="flex items-center justify-center text-sm font-bold bg-spotify-green hover:bg-spotify-dark-green hover:scale-105  px-4 py-2.5 rounded-full gap-2 transition-all duration-200"
-        onClick={handleCopyNumber}
+        onClick={handleCopyWhatsapp}
       >
         <FaWhatsapp /> 
       </button>
