@@ -2,7 +2,7 @@
 
 
 
-[![Website Status]
+[![Website Status](https://img.shields.io/badge/website-up-yellow)](https://www.michaelbullet.com/)
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/bulletdev/PORTFOLIO/commits/main)
 [![LinkedIn](https://img.shields.io/badge/connect-linkedin-1abc9c.svg)](https://www.linkedin.com/in/michael-bullet/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
@@ -11,7 +11,7 @@ A modern, responsive portfolio website built with cutting-edge technologies, fea
 
 ## ✨ Preview
 
-<img src="https://github.com/user-attachments/assets/c8dc6f9b-4aea-45ee-8e83-86d2ddef5b3a" width="900" alt="Portfolio Preview">
+<img src="/preview.png" width="900" alt="Portfolio Preview">
 
 ## 🛠️ Built With
 
