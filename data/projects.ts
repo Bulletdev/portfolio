@@ -22,7 +22,7 @@ export const personalProjects: personalProjectType = [
   },
   {
     href: "https://github.com/bulletdev/portfolio",
-    imageSrc: "/measf.png",
+    imageSrc: "/measf.jpeg",
     imageAlt: "Portfolio",
     title: "Meu portfolio ♺",
     description:
