@@ -20,6 +20,14 @@ export const personalProjects: personalProjectType = [
       "API para gerenciamento de produtos",
     tech: ["Golang", "GO", "API REST"],
   },
-
+  {
+    href: "https://github.com/bulletdev/portfolio",
+    imageSrc: "/measf.png",
+    imageAlt: "Portfolio",
+    title: "Meu portfolio ♺",
+    description:
+      "Portfolio com design baseado no Spotify",
+    tech: ["Typescript", "NextJS", "Tailwind"],
+  },
   // Add more project objects here...
 ];

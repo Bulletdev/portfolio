@@ -74,13 +74,13 @@ const languageItems: {
     ),
   },
   {
-    name: "Django",
+    name: "Mocha",
     component: (
       <Image
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg"
         width={32}
         height={32}
-        alt="Rust"
+        alt="Mocha"
       />
     ),
   },

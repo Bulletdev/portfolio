@@ -21,7 +21,7 @@ export default function SocialLinks() {
     </>
   );
 }
-
+ 
 type socialMediasProps = {
   title: string;
   url: string;
