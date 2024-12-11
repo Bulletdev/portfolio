@@ -75,4 +75,4 @@ Give a ⭐️ if you like this project!
 
 ---
 
-Made with ❤️ by [Michael Bullet](https://www.linkedin.com/in/Michael-bullet/)
+꧁ [𝓜𝓲𝓬𝓱𝓪𝓮𝓵 ⏤͟͞★᭄𝓑𝓾𝓵𝓵𝓮𝓽 ](https://www.linkedin.com/in/Michael-bullet/)༒꧂
