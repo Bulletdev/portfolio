@@ -104,6 +104,19 @@ const languageItems: {
         height={40}
         alt="apachekafka"
       />
+
+    ),
+  },
+  {
+    name: "rabbitmq",
+    component: (
+      <Image
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg"
+        width={40}
+        height={40}
+        alt="rabbitmq"
+      />
+
     ),
   },
 ];
