@@ -135,7 +135,7 @@ const languageItems: {
     name: "ORACLE",
     component: (
       <Image
-        src="https://github.com/Bulletdev/portfolio/blob/main/oracle-svgrepo-com.png?raw=true"
+        src="https://www.svgrepo.com/show/355152/oracle.svg"
         width={50}
         height={50}
         alt="OREACLE"
