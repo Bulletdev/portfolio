@@ -33,8 +33,8 @@ const languageItems: {
     component: (
       <Image
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-        width={35}
-        height={35}
+        width={40}
+        height={40}
         alt="Java"
       />
     ),
@@ -45,8 +45,8 @@ const languageItems: {
     component: (
       <Image
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg"
-        width={32}
-        height={32}
+        width={40}
+        height={40}
         alt="Ruby"
       />
     ),
@@ -56,8 +56,8 @@ const languageItems: {
     component: (
       <Image
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-        width={32}
-        height={32}
+        width={40}
+        height={40}
         alt="Django"
       />
     ),
@@ -67,8 +67,8 @@ const languageItems: {
     component: (
       <Image
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"
-        width={32}
-        height={32}
+        width={40}
+        height={40}
         alt="Golang"
       />
     ),
@@ -78,9 +78,31 @@ const languageItems: {
     component: (
       <Image
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg"
-        width={32}
-        height={32}
+        width={40}
+        height={40}
         alt="Mocha"
+      />
+    ),
+  },
+  {
+    name: "Django",
+    component: (
+      <Image
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lombok/lombok-original.svg"
+        width={40}
+        height={40}
+        alt="Django"
+      />
+    ),
+  },
+  {
+    name: "Django",
+    component: (
+      <Image
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg"
+        width={40}
+        height={40}
+        alt="Django"
       />
     ),
   },
