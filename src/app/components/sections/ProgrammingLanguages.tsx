@@ -33,8 +33,8 @@ const languageItems: {
     component: (
       <Image
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-        width={40}
-        height={40}
+        width={50}
+        height={50}
         alt="Java"
       />
     ),
@@ -45,8 +45,8 @@ const languageItems: {
     component: (
       <Image
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg"
-        width={40}
-        height={40}
+        width={50}
+        height={50}
         alt="Ruby"
       />
     ),
@@ -56,8 +56,8 @@ const languageItems: {
     component: (
       <Image
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-        width={40}
-        height={40}
+        width={50}
+        height={50}
         alt="Django"
       />
     ),
@@ -67,8 +67,8 @@ const languageItems: {
     component: (
       <Image
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"
-        width={40}
-        height={40}
+        width={50}
+        height={50}
         alt="Golang"
       />
     ),
@@ -78,8 +78,8 @@ const languageItems: {
     component: (
       <Image
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg"
-        width={40}
-        height={40}
+        width={50}
+        height={50}
         alt="Mocha"
       />
     ),
@@ -89,8 +89,8 @@ const languageItems: {
     component: (
       <Image
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
-        width={40}
-        height={40}
+        width={50}
+        height={50}
         alt="kotlin"
       />
     ),
@@ -100,8 +100,8 @@ const languageItems: {
     component: (
       <Image
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg"
-        width={40}
-        height={40}
+        width={50}
+        height={50}
         alt="apachekafka"
       />
 
@@ -112,8 +112,8 @@ const languageItems: {
     component: (
       <Image
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg"
-        width={40}
-        height={40}
+        width={50}
+        height={50}
         alt="rabbitmq"
       />
 
