@@ -85,24 +85,24 @@ const languageItems: {
     ),
   },
   {
-    name: "Django",
+    name: "kotlin",
     component: (
       <Image
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
         width={40}
         height={40}
-        alt="Django"
+        alt="kotlin"
       />
     ),
   },
   {
-    name: "Django",
+    name: "apachekafka",
     component: (
       <Image
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg"
         width={40}
         height={40}
-        alt="Django"
+        alt="apachekafka"
       />
     ),
   },
