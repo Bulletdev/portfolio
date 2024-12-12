@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/connect-linkedin-1abc9c.svg)](https://www.linkedin.com/in/michael-bullet/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-A modern, responsive portfolio website built with cutting-edge technologies, featuring a Spotify-inspired design.
+A responsive portfolio featuring a Spotify-inspired design.
 
 ## ✨ Preview
 
@@ -75,4 +75,4 @@ Give a ⭐️ if you like this project!
 
 ---
 
-Made with ❤️ by [Michael Bullet](https://www.linkedin.com/in/Michael-bullet/)
+꧁ [𝓜𝓲𝓬𝓱𝓪𝓮𝓵 ⏤͟͞★᭄𝓑𝓾𝓵𝓵𝓮𝓽 ](https://www.linkedin.com/in/Michael-bullet/)༒꧂
