@@ -88,7 +88,7 @@ const languageItems: {
     name: "Django",
     component: (
       <Image
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lombok/lombok-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
         width={40}
         height={40}
         alt="Django"
