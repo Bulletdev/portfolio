@@ -74,13 +74,13 @@ const languageItems: {
     ),
   },
   {
-    name: "Mocha",
+    name: "karatelabs",
     component: (
       <Image
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karatelabs/karatelabs-original.svg"
         width={50}
         height={50}
-        alt="Mocha"
+        alt="karatelabs"
       />
     ),
   },
@@ -96,25 +96,37 @@ const languageItems: {
     ),
   },
   {
-    name: "apachekafka",
+    name: "debian",
     component: (
       <Image
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg"
         width={50}
         height={50}
-        alt="apachekafka"
+        alt="debian"
       />
 
     ),
   },
   {
-    name: "rabbitmq",
+    name: "azure",
     component: (
       <Image
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
         width={50}
         height={50}
-        alt="rabbitmq"
+        alt="azure"
+      />
+
+    ),
+  },
+  {
+    name: "googlecloud",
+    component: (
+      <Image
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"
+        width={50}
+        height={50}
+        alt="googlecloud"
       />
 
     ),
