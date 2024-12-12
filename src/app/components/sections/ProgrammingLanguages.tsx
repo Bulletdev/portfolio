@@ -77,7 +77,7 @@ const languageItems: {
     name: "karatelabs",
     component: (
       <Image
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karatelabs/karatelabs-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
         width={50}
         height={50}
         alt="karatelabs"
@@ -88,7 +88,7 @@ const languageItems: {
     name: "kotlin",
     component: (
       <Image
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karatelabs/karatelabs-original.svg"
         width={50}
         height={50}
         alt="kotlin"
@@ -127,6 +127,18 @@ const languageItems: {
         width={50}
         height={50}
         alt="googlecloud"
+      />
+
+    ),
+  },
+  {
+    name: "ORACLE",
+    component: (
+      <Image
+        src="https://github.com/Bulletdev/portfolio/blob/main/oracle-svgrepo-com.png?raw=true"
+        width={50}
+        height={50}
+        alt="OREACLE"
       />
 
     ),
