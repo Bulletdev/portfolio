@@ -77,8 +77,8 @@ type experienceListsProps = {
 const experienceLists: experienceListsProps[] = [
   {
     imageSrc: "/ESR.svg",
-    companyName: "Bullet Cloud",
-    positionTitle: "Founder",
+    companyName: "Bullet Cloud ",
+    positionTitle: "Cloud Engineer", 
     date: "Novembro de 2023 - Até o momento",
   },
   {
