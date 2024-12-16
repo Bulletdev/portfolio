@@ -1,3 +1,7 @@
+[![Deploy Next.js site to Pages](https://github.com/Bulletdev/portfolio/actions/workflows/nextjs.yml/badge.svg?event=push)](https://github.com/Bulletdev/portfolio/actions/workflows/nextjs.yml)
+[![pages-build-deployment](https://github.com/Bulletdev/portfolio/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Bulletdev/portfolio/actions/workflows/pages/pages-build-deployment)
+[![Dependabot Updates](https://github.com/Bulletdev/portfolio/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/Bulletdev/portfolio/actions/workflows/dependabot/dependabot-updates)
+
 # Michael Bullet's Portfolio 
 
 
