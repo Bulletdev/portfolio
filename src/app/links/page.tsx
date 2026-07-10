@@ -80,7 +80,7 @@ export default function LinksPage() {
       icon: <FaLinkedin />,
     },
     {
-      href: "https://www.bulletonrails.com/",
+      href: "https://bulletonrails.com/",
       label: t.links.blog,
       icon: <FaRss />,
     },
