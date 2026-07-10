@@ -13,8 +13,6 @@ export const en: Translations = {
       { text: "Security and Identity", highlight: true },
       { text: ". Building ", highlight: false },
       { text: "resilient and scalable systems with Elixir/OTP, Ruby, and Go", highlight: true },
-      { text: ". Working at the intersection of ", highlight: false },
-      { text: "high-performance engineering and Security & Identity", highlight: true },
       { text: ", advocating for best practices and ", highlight: false },
       { text: "open-source technologies", highlight: true },
       { text: ".", highlight: false },

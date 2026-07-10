@@ -13,8 +13,6 @@ export const pt: Translations = {
       { text: "Segurança e Identidade", highlight: true },
       { text: ". Construindo sistemas ", highlight: false },
       { text: "resilientes e escaláveis com Elixir/OTP, Ruby e Go", highlight: true },
-      { text: ". Atuando na interseção entre ", highlight: false },
-      { text: "engenharia de alta performance e Segurança & Identidade", highlight: true },
       { text: ", defendendo boas práticas e promovendo ", highlight: false },
       { text: "tecnologias open-source", highlight: true },
       { text: ".", highlight: false },
